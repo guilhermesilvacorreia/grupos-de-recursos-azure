@@ -1,0 +1,1 @@
+# grupos-de-recursos-azure
